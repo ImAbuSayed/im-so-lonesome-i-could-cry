@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/im-so-lonesome-i-could-cry/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: I’m So Lonesome I Could Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-so-lonesome-i-could-cry/) |
+| **Get License** | [Get License For I’m So Lonesome I Could Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-so-lonesome-i-could-cry/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3d7b4a403f6f67a7bf709c093546ebe7a787cc234ac6daa796991511d3822668` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
