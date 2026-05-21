@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/im-so-lonesome-i-could-cry/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for I’m So Lonesome I Could Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-so-lonesome-i-could-cry/) |
+| **Get License** | [License this song: I’m So Lonesome I Could Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-so-lonesome-i-could-cry/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got the windows rolled down, but it’s burning up inside
+> Every mile that I drive, I just want you for the ride
+> Slide across the front seat, let our bodies get close
+> You're the only kind of magic that I want the most
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
